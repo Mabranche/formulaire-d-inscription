@@ -1,7 +1,7 @@
 /*    */
 
 
-
+@import url('https://fonts.googleapis.com/css2? famille=Parisienne&display=swap');
 
 
 h1{
@@ -11,4 +11,5 @@ h1{
     color: blue;
     text-shadow: 5px 0 0 yellowgreen;
     text-align:center;
+    font-family: 'Parisienne', serif;
 }
